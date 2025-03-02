@@ -11,3 +11,10 @@
 - Bu kısımda da cüzdanımızın bağlı olduğundan emin olalım ve ``Deploy`` yazan kısmın sağına herhangi bir yazı yazıp, ``Deploy`` diyelim. [Resim 7](https://prnt.sc/vDsdhcyaOHMo)
 - En son olarak da cüzdanımıza gelen işlemi onaylayalım. [Resim 8](https://prnt.sc/CEhHMHAwCoML)
 - Tüm işlemler bu kadardı, eğer ki ``Deployed Contracts`` kısmındaki sayılar artıyor ve yeşil yanıyor ise akıllı sözleşmenizi yaratmışsınız demektir.
+
+# Alternatif
+
+- [ZkCodex](https://zkcodex.com/onchain/deploy) kullanarak da Basit sözleşme, Token ve hatta NFT yaratabilirsiniz.
+
+# Hardhat ile Sözleşme
+- Bu kısım biraz daha üst seviye ve VDS gerektiren bir işlem, güncelleyeceğim.
